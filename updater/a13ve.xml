@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <roms>
   <rom channel="stable">
-    <version>A137FXXSCHZI3</version>
-    <date>2026-09-24</date>
-    <filename>A137FXXSCHZI3.zip</filename>
+    <version>A137FXXSCHZI4</version>
+    <date>2026-09-25</date>
+    <filename>A137FXXSCHZI4.zip</filename>
     <part1>https://github.com/AlfCraft07/releases/releases/download/A137FXXSCHZI3/A137FXXSCHZI3.zip.part_00</part1>
     <part2>https://github.com/AlfCraft07/releases/releases/download/A137FXXSCHZI3/A137FXXSCHZI3.zip.part_01</part2>
     <part3>https://github.com/AlfCraft07/releases/releases/download/A137FXXSCHZI3/A137FXXSCHZI3.zip.part_02</part3>
