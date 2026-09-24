@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roms>
+  <rom channel="stable">
+    <version>P613XXS8FZI4</version>
+    <date>2026-09-24</date>
+    <filename>P613XXS8FZI4.zip</filename>
+    <part1>https://github.com/AlfCraft07/releases/releases/download/P613XXS8FZI4/P613XXS8FZI4.zip.part_00</part1>
+    <part2>https://github.com/AlfCraft07/releases/releases/download/P613XXS8FZI4/P613XXS8FZI4.zip.part_01</part2>
+    <part3>https://github.com/AlfCraft07/releases/releases/download/P613XXS8FZI4/P613XXS8FZI4.zip.part_02</part3>
+    <md5>64b62fc9d40bbd684e1c58b494fbd9e7</md5>
+    <size>4806582675</size>
+  </rom>
+</roms>
